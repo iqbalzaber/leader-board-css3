@@ -1,0 +1,47 @@
+.nav-title{
+    background-image: url(../images/donation1.jpg);
+    background-repeat: no-repeat;
+ background-size: cover;
+ font: weight 700px;
+ position: absolute;
+width: 1440px;
+height: 669px;
+top: 0;
+left: 0;
+text-align: center;
+
+}
+
+  
+.header{ 
+position: absolute;
+width: 126px;
+height: 58px;
+left: 107px;
+top: 0;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 20;
+font-size: 45px;
+line-height: 70px;
+text-align: center;
+color: azure;
+display: flex;
+justify-content: space-between;
+
+}
+p{
+    position: absolute;
+width: 691px;
+height: 56px;
+left: 275px;
+top: 552px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+text-align: center;
+}

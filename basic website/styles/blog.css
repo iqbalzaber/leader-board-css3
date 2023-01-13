@@ -1,0 +1,41 @@
+.putin{
+    background-image: url(../background.png) ;
+    color: cadetblue;
+    background-position: right;
+    background-size: cover; 
+    text-align: center;
+    font-weight: 1100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: 200px;
+    background-blend-mode: multiply;
+
+}
+
+h3{
+    color: aquamarine;
+}
+div{
+    border: 50em 25em ;
+    margin: 52px; ;
+    padding: 60px;
+    color: blanchedalmond;
+    background-color: blueviolet;
+    text-align: center ;
+}
+ol{
+  border: 2px solid coral;
+   background-color: aqua;
+   margin-top: 1em;
+   font-size:large;
+   background-image:url(../2\ web.png);
+   color: burlywood;
+   text-decoration: underline;
+}
+ul{
+    box-shadow: 789em;
+    text-decoration: underline;
+}
+h4{
+    font-family: sans-serif;
+    
+}
